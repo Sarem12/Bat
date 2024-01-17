@@ -1,0 +1,2 @@
+dotnet help
+pause
